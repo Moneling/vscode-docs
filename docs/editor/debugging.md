@@ -77,7 +77,7 @@ Here is the launch configuration generated for Node.js debugging:
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\app.js"
+            "program": "${workspaceFolder}/app.js"
         }
     ]
 }
